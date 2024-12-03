@@ -1,6 +1,8 @@
-# 👋 Hi there! I'm Carlos Jimenez
+![GitHub Header](https://i.imgur.com/lUNCf9m.png)
 
-Welcome to my GitHub profile! I'm a passionate **Systems Engineering** student with a background in **Multimedia** and a love for creating innovative software solutions. I’m always learning new technologies and finding creative ways to solve real-world problems.
+
+Welcome to my GitHub profile! I'm a passionate **Systems Engineering** student with a background in **Multimedia** and a love for creating innovative software solutions. 
+I’m always learning new technologies and finding creative ways to solve real-world problems.
 
 ---
 
@@ -33,7 +35,6 @@ Welcome to my GitHub profile! I'm a passionate **Systems Engineering** student w
 ### 📫 How to reach me
 - **Email**: carlos@example.com
 - **LinkedIn**: [Carlos Jimenez](https://www.linkedin.com/in/carlosjimenez/)
-- **Twitter**: [@CarlosGale](https://twitter.com/CarlosGale)
 
 ### 😄 Pronouns
 - He / Him
@@ -58,14 +59,13 @@ Welcome to my GitHub profile! I'm a passionate **Systems Engineering** student w
 
 ---
 
-### 👀 Latest Projects
 
-- [**Personal Portfolio**](https://github.com/Carlos-Gale-W1/portfolio) – A website showcasing my work, skills, and projects.
-- [**Game Development with Pygame**](https://github.com/Carlos-Gale-W1/pygame-game) – An interactive game built using Python and Pygame.
-- [**Machine Learning Projects**](https://github.com/Carlos-Gale-W1/machine-learning) – A collection of ML models and data analysis projects.
 
 ---
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Gale-W1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 🌐 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Gale-W1&layout=compact&theme=radical)

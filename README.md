@@ -1,4 +1,4 @@
-![GitHub Header](https://i.imgur.com/lUNCf9m.png)
+![GitHub Header](https://ibb.co/BVjS0Hx)
 
 
 Welcome to my GitHub profile! I'm a passionate **Systems Engineering** student with a background in **Multimedia** and a love for creating innovative software solutions. 
